@@ -1,0 +1,52 @@
+Messages for E
+-------New DistanceVectors From 10000-------
+Time: 20150603T220951
+Updated Table
+(Dest Port, Cost, Next Hop Port)
+(10000, 1, 10000)
+(10001, 2, 10001)
+(10004, 3, 10004)
+-------New DistanceVectors From 10001-------
+Time: 20150603T220951
+Updated Table
+(Dest Port, Cost, Next Hop Port)
+(10000, 1, 10000)
+(10001, 2, 10001)
+(10004, 3, 10001)
+(10002, 5, 10001)
+-------New DistanceVectors From 10004-------
+Time: 20150603T220951
+Updated Table
+(Dest Port, Cost, Next Hop Port)
+(10000, 1, 10000)
+(10001, 2, 10001)
+(10004, 3, 10001)
+(10002, 4, 10004)
+(10003, 6, 10004)
+-------New DistanceVectors From 10000-------
+Time: 20150603T220952
+Updated Table
+(Dest Port, Cost, Next Hop Port)
+(10000, 1, 10000)
+(10001, 2, 10001)
+(10004, 3, 10001)
+(10002, 4, 10004)
+(10003, 6, 10004)
+-------New DistanceVectors From 10001-------
+Time: 20150603T220952
+Updated Table
+(Dest Port, Cost, Next Hop Port)
+(10000, 1, 10000)
+(10001, 2, 10001)
+(10004, 3, 10001)
+(10002, 4, 10001)
+(10003, 6, 10001)
+-------New DistanceVectors From 10000-------
+Time: 20150603T220953
+Updated Table
+(Dest Port, Cost, Next Hop Port)
+(10000, 1, 10000)
+(10001, 2, 10001)
+(10004, 3, 10001)
+(10002, 4, 10001)
+(10003, 6, 10001)

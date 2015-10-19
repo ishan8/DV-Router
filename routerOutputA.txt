@@ -1,0 +1,41 @@
+Messages for A
+-------New DistanceVectors From 10001-------
+Time: 20150603T220951
+Updated Table
+(Dest Port, Cost, Next Hop Port)
+(10001, 3, 10001)
+(10005, 1, 10005)
+(10002, 6, 10001)
+(10004, 4, 10001)
+-------New DistanceVectors From 10005-------
+Time: 20150603T220951
+Updated Table
+(Dest Port, Cost, Next Hop Port)
+(10001, 3, 10001)
+(10005, 1, 10005)
+(10002, 6, 10001)
+(10004, 4, 10001)
+-------New DistanceVectors From 10001-------
+Time: 20150603T220952
+Updated Table
+(Dest Port, Cost, Next Hop Port)
+(10001, 3, 10001)
+(10005, 1, 10005)
+(10002, 5, 10001)
+(10004, 4, 10001)
+(10003, 7, 10001)
+-------New DistanceVectors From 10005-------
+Time: 20150603T220952
+Updated Table
+(Dest Port, Cost, Next Hop Port)
+(10001, 3, 10001)
+(10005, 1, 10005)
+(10002, 5, 10001)
+(10004, 4, 10001)
+(10003, 7, 10001)
+-------New Data-------
+Time: 20150603T221215
+Source router: A
+Destination router: C
+UDP Port of arrival: 10000
+UDP Port Forwarded To: 10001
